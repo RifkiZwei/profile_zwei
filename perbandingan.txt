@@ -1,0 +1,1 @@
+Berdasarkan hasil perbandingan, profile.html pada branch main memiliki sekitar 404 baris kode, sedangkan pada branch fitur-profil hanya tersisa sekitar 13 baris
