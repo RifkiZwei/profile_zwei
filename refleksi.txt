@@ -1,0 +1,6 @@
+1.Mengapa branch diperlukan?
+Branch diperlukan untuk membuat jalur pengembangan terpisah tanpa mengganggu kode utama yang ada di branch main.
+2.Apa keuntungan bekerja pada branch dibanding langsung di main?
+Kita dapat mengembangkan fitur, melakukan percobaan, dan memperbaiki kesalahan dengan lebih aman. Jika terjadi masalah, kode pada main tetap tidak terganggu.
+3.Kapan sebaiknya membuat branch baru?
+Branch baru sebaiknya dibuat ketika ingin mengerjakan fitur baru, memperbaiki bug, melakukan perubahan besar, atau mencoba sesuatu yang masih dalam tahap pengembangan.
